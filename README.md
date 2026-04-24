@@ -19,4 +19,4 @@ This is a simple calculator built using Python. It performs basic arithmetic ope
    python calculator.py
 
 ## Author
-Your Name
+Faridah
